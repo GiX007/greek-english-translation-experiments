@@ -20,7 +20,7 @@ We use the **OPUS Books** dataset (`Helsinki-NLP/opus_books`) from Hugging Face 
 - `auxiliary/` - Exploratory code, small experiments, and supporting scripts and files used during development.
 - `requirements.txt` - Project dependencies.
 - `dataset` - Train and validation splits used in all experiments.
-- `results` - Experiment outputs, including trained model weights, TensorBoard logs and graphs, evaluation logs, and JSON files with computed metrics for all models.
+- `results` - Experiment outputs, including TensorBoard logs and graphs, evaluation logs, and JSON files with computed metrics for all models.
 - `README.md` - Project documentation.
 
 ---
