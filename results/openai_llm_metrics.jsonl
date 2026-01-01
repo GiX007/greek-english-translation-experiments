@@ -1,0 +1,1 @@
+{"timestamp": "2026-01-01T16:53:38", "model": "openai_llm", "openai_model": "gpt-4o-mini", "decode": "temperature_0", "global_step": 1767278984, "cer": 0.6378986239433289, "wer": 0.8268170952796936, "bleu": 0.13382451236248016, "n_samples": 129}

@@ -1,0 +1,1 @@
+{"timestamp": "2026-01-01T15:46:20", "model": "pretrained", "pretrained_model": "facebook/nllb-200-distilled-600M", "decode": "greedy", "cer": 0.6531840562820435, "wer": 0.849645733833313, "bleu": 0.11398304253816605}

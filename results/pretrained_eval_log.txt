@@ -1,0 +1,18 @@
+Using device: cuda
+SOURCE: Το σχολείο μας έχει εννιά τάξεις.
+SANITY CHECK: Our school has nine classes.
+----------------------------------------
+    SOURCE: — Δεν είναι και δική μου, είπε ψυχρά ο Ποκοκουράντης: με κάνανε άλλοτες να πιστεύω, πως ευχαριστιόμουνα διαβάζοντάς τον· αλλ' αυτή η συνεχής επανάληψη μαχών, που όλες μοιάζουν αναμεταξύ τους, αυτοί οι θεοί που ενεργούνε πάντα, χωρίς να κάμνουνε τίποτε το οριστικό, αυτή η Ελένη, που είναι η αιτία του πολέμου και που μόλις εμφανίζεται στο έργο· αυτή η Τροία, που την πολιορκούνε και δεν την κυριεύουνε ποτέ· όλ' αυτά μου προξενούσανε την πιο θανάσιμη πλήξη.
+    TARGET: "Homer is no favorite of mine," answered Pococurante, coolly, "I was made to believe once that I took a pleasure in reading him; but his continual repetitions of battles have all such a resemblance with each other; his gods that are forever in haste and bustle, without ever doing anything; his Helen, who is the cause of the war, and yet hardly acts in the whole performance; his Troy, that holds out so long, without being taken: in short, all these things together make the poem very insipid to me.
+ PREDICTED: "It is not mine", said Poccurantius coldly, "but I was made to believe that I enjoyed reading it; but this continual repetition of battles, all of which resemble one another, these gods who always acted, without doing anything definite, this Helen, who is the cause of war and who appears only in the play; this Troy, who besieged it and never possessed it; all of these caused me the most deadly pain.
+----------------------------------------
+    SOURCE: Τραβάει ένα χέρι καλοθρεμμένο από το κρεββάτι, που ο Άγάθούλης το πότιζε πολύν καιρό με δάκρυα, το γεμίζει διαμάντια, αφήνοντας ένα σακκί γεμάτο χρυσάφι απάνου στο κάθισμα.
+    TARGET: The sick lady then put a plump hand out of the bed and Candide first bathed it with tears, then filled it with diamonds, leaving a purse of gold upon the easy chair.
+ PREDICTED: He pulls a well-fed hand out of the bed, which Agathous has long been tearing down, fills it with diamonds, leaving a bag full of gold in front of the seat.
+----------------------------------------
+----------------------------------------
+Pretrained Model — Validation Metrics
+BLEU: 0.1140
+WER : 0.8496
+CER : 0.6532
+----------------------------------------

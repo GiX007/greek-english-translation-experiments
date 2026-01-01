@@ -1,0 +1,16 @@
+Using OpenAI model: gpt-4o-mini
+----------------------------------------
+    SOURCE: — Δεν είναι και δική μου, είπε ψυχρά ο Ποκοκουράντης: με κάνανε άλλοτες να πιστεύω, πως ευχαριστιόμουνα διαβάζοντάς τον· αλλ' αυτή η συνεχής επανάληψη μαχών, που όλες μοιάζουν αναμεταξύ τους, αυτοί οι θεοί που ενεργούνε πάντα, χωρίς να κάμνουνε τίποτε το οριστικό, αυτή η Ελένη, που είναι η αιτία του πολέμου και που μόλις εμφανίζεται στο έργο· αυτή η Τροία, που την πολιορκούνε και δεν την κυριεύουνε ποτέ· όλ' αυτά μου προξενούσανε την πιο θανάσιμη πλήξη.
+    TARGET: "Homer is no favorite of mine," answered Pococurante, coolly, "I was made to believe once that I took a pleasure in reading him; but his continual repetitions of battles have all such a resemblance with each other; his gods that are forever in haste and bustle, without ever doing anything; his Helen, who is the cause of the war, and yet hardly acts in the whole performance; his Troy, that holds out so long, without being taken: in short, all these things together make the poem very insipid to me.
+ PREDICTED: It's not mine either, said Pokokourantis coldly: they made me believe at one time that I enjoyed reading it; but this continuous repetition of battles, all of which resemble each other, these gods who always act without doing anything definitive, this Helen, who is the cause of the war and barely appears in the work; this Troy, which is besieged but never conquered; all of this caused me the most deadly boredom.
+----------------------------------------
+    SOURCE: Τραβάει ένα χέρι καλοθρεμμένο από το κρεββάτι, που ο Άγάθούλης το πότιζε πολύν καιρό με δάκρυα, το γεμίζει διαμάντια, αφήνοντας ένα σακκί γεμάτο χρυσάφι απάνου στο κάθισμα.
+    TARGET: The sick lady then put a plump hand out of the bed and Candide first bathed it with tears, then filled it with diamonds, leaving a purse of gold upon the easy chair.
+ PREDICTED: It pulls a well-fed hand from the bed, which Agathoulis had watered for a long time with tears, fills it with diamonds, leaving a sack full of gold on the seat.
+----------------------------------------
+----------------------------------------
+OpenAI LLM — Validation Metrics
+BLEU: 0.1338
+WER : 0.8268
+CER : 0.6379
+----------------------------------------
