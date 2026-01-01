@@ -181,3 +181,6 @@ The following observations summarize qualitative differences between the three a
 ## Contributing
 
 Contributions and feedback are welcome! Feel free to open issues or submit pull requests.
+
+---
+
