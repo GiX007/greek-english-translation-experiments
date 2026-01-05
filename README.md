@@ -43,7 +43,7 @@ pip install -r requirements.txt
 **Windows**
 ```
 python -m venv nmt_venv
-.\nmt_venv\Scripts\Activate.ps1
+nmt_venv\Scripts\activate
 python -m pip install --upgrade pip
 pip install -r requirements.txt
 ```
